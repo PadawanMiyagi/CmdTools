@@ -9,3 +9,7 @@ The main purpose of this project is learning web scraping and popular website ap
 2. www.Reddit.com
 3. www.Information.dk
 
+# Dependencies 
+1. Beautiful Soup
+2. Praw
+3. Wikipedia
